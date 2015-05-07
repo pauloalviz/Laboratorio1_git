@@ -1,3 +1,8 @@
+/*
+* NOMBRE PROGRAMA: TASA DE CAMBIO
+* AUTOR:PAULO ALVIS
+* FECHA: MAY 5 2015
+*/
 package punto1;
 
 public class TasaCambio {

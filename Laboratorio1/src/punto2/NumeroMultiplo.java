@@ -1,3 +1,8 @@
+/*
+* NOMBRE PROGRAMA: NUMERO MULTIPLO
+* AUTOR:PAULO ALVIS
+* FECHA: MAY 5 2015
+*/
 package punto2;
 
 public class NumeroMultiplo {

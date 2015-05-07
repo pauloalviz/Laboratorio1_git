@@ -1,3 +1,8 @@
+/*
+* NOMBRE PROGRAMA: CONVERSOR DE SEGUNDOS A DIAS, HORA, MINUTOS
+* AUTOR:PAULO ALVIS
+* FECHA: MAY 5 2015
+*/
 package punto3;
 
 public class ConversorTiempo {

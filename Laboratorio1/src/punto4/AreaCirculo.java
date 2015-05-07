@@ -1,3 +1,8 @@
+/*
+* NOMBRE PROGRAMA: AREA DE CIRCULO
+* AUTOR:PAULO ALVIS
+* FECHA: MAY 7 2015
+*/
 package punto4;
 import java.io.*;
 

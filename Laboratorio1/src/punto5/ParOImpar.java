@@ -1,3 +1,8 @@
+/*
+* NOMBRE PROGRAMA: NUMERO PAR O IMPAR
+* AUTOR:PAULO ALVIS
+* FECHA: MAY 7 2015
+*/
 package punto5;
 
 import java.io.BufferedReader;
