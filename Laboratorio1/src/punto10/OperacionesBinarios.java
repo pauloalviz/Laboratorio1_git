@@ -13,6 +13,7 @@ public class OperacionesBinarios {
 		int resultado;
 		
 		while(opcion != 0){
+			//captura de valores a operar
 			System.out.println ("Ingrese primer numero binario: ");
 			int binario1 = Integer.parseInt(in.readLine(), 2);
 			System.out.println ("Ingrese segundo numero binario: ");
@@ -31,7 +32,7 @@ public class OperacionesBinarios {
 				System.out.println ("0. Salir");
 				opcion1 = Integer.parseInt(in.readLine());
 					
-				//OPCIONES DEL MENU DE SELECCION
+				//OPERACIONES CON LOS NUMEROS CAPTURADOS
 				switch (opcion1){
 					case 1: 
 						resultado = binario1 + binario2;

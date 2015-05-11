@@ -30,7 +30,7 @@ public class ConversorSistemasNumericos {
 			System.out.println ("0. Salir"); 
 			opcion = Integer.parseInt(in.readLine());
 				
-			//OPCIONES DEL MENU DE SELECCION
+			//OPERACIONES SELECCIONADAS
 			switch (opcion){
 				case 1: 
 					System.out.println("\n");
