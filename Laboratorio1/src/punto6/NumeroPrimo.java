@@ -25,8 +25,9 @@ public class NumeroPrimo {
         	primo = true;
         }else{        
 	        while ((primo) && (contador!=numero)){
-	          if (numero % contador == 0)
+	          if (numero % contador == 0){
 	            primo = false;
+	          }
 	          contador++;
 	        }
 	    }

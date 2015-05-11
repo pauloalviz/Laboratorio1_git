@@ -17,9 +17,10 @@ public class NumeroMultiplo {
 		
 		modulo = numero1%numero2;
 		
-		if (modulo==0)
+		if (modulo==0){
 		  System.out.println(numero1 + " es múltiplo de " + numero2);
-		else
+		}else{
 		  System.out.println(numero1 + " NO es múltiplo de " + numero2);
+		}
 	}
 }
